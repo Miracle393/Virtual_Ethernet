@@ -5,8 +5,3 @@ Creating ethernet cable - virtual practical lab session.
 This is the learning lab session for practical training using the VR technology, to create the ethernet cable.
 Through the metaverse experience it help student get to more experience before or even more when having the real object tools for creating the ethernet cable.
 
-## How it goes...
-### First milestone (current duedate: 3rd May, 2023)
-Using blender creating neccesary assets i.e wires, clamp and so on... required in the lab room.
-### Second Milestone (current duedate: 10th May, 2023)
-Using blender creating  required environment laboratory room.
