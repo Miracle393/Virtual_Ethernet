@@ -1,0 +1,15 @@
+THE COMPUTER NETWORK PRACTICAL:
+- How to wire up the Ethernet plugs, (Cat5e/ Cat6/ RJ45). 
+
+Required tools; 
+- RJ45 plug (pass through plugs).!
+- A drum of ethernet cable (Cat5e, Cat6, or even Cat6a).
+- RJ45 Strain Relief Boots.!
+- RJ45 crimping tool.!
+- A pair of snip.!
+- Mini wire Stripper.!
+- Cable tester.!
+
+
+
+			 
